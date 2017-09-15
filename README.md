@@ -2,7 +2,11 @@
 Just backend Spring+Tomcat setup.
 Start tomcat:
 Run->Edit configuration
-Change your working directory root.
+Select Maven
+
+Working Directory: Your working directory;
+Command line: tomcat7:run
+
 
 Brower UrL:
 http://localhost:8080/sharkjob
